@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/DemoDI/obj
+/DemoDI/DemoDI.csproj.user
+/DesignPatterns/obj
+/OOP/obj
+/ProjetoA/obj
+/ProjetoB/obj
+/ProjetoB/ProjetoB.csproj.user
+/ProjetoB/Properties/PublishProfiles
+/SOLID/obj
+/FundamentosArquitetura.sln.DotSettings.user
